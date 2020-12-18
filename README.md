@@ -17,7 +17,7 @@ util: Utility classes.
 
 test: ViewMdel unit Test
 
-## Tech stack and Library used
+## Tech stack and Libraries
 Kotlin - Official programming language for Android development.
 
 Modern Android Architecture Components - https://developer.android.com/topic/libraries/architecture
