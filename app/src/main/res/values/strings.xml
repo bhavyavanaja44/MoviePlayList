@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MovieList</string>
+    <string name="msg_no_network">No network available</string>
+    <string name="msg_connected">Connected</string>
+    <string name="na">--</string>
+    <string name="search">Search</string>
+    <string name="welcome_search">Welcome!\nPlease search your movie!!</string>
+    <string name="add_to_playlist">Add to PlayList</string>
+    <string name="my_playlist">My PlayList</string>
+
+    <string name="no_selection">No Selection</string>
+    <string name="selected_movies">Selected movies</string>
+    <string name="yes">Yes</string>
+    <string name="ok">OK</string>
+    <string name="your_playlist">Your Movie PlayList</string>
+    <string name="no_network">No network connection</string>
+</resources>
