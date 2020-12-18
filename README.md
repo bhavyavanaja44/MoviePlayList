@@ -1,7 +1,10 @@
 # MoviePlayList
 A simple  movie play list android app
 
-## Desrciption
+## Features
+● Do search a movie wname and render results in List View
+● Select movies from the results to add to a playlist
+● Confirm the list of movies they have selected in a Alert dialog 
 
 ### App screenshots
 
