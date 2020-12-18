@@ -8,8 +8,11 @@ A simple  movie play list android app using ODMB Search API.
 
 ## Architecture - MVVM
 data: All the data accessing and manipulating components.
+
 ui: View classes along with their corresponding ViewModel.
+
 util: Utility classes.
+
 test: ViewMdel unit Test
 
 ## Tech stack and Library used
