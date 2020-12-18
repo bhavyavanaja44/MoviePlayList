@@ -1,9 +1,11 @@
 # MoviePlayList
-A simple  movie play list android app using ODMB Search API.
+A simple  movie play list android app using ODMB  API.
 
 ## Features
 ● Do search a movie name and render results in List View
+
 ● Select movies from the results to add to a playlist
+
 ● Confirm the list of movies they have selected in a Alert dialog 
 
 ## Architecture - MVVM
