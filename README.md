@@ -19,15 +19,23 @@ test: ViewMdel unit Test
 
 ## Tech stack and Library used
 Kotlin - Official programming language for Android development.
+
 Modern Android Architecture Components - https://developer.android.com/topic/libraries/architecture
+
   -LiveData 
   -ViewModel 
   -ViewBinding 
+  
 Coroutines - clean, simplified asynchronous code that keeps your app responsive while managing long-running tasks such as network calls.
+
 Retrofit - A type-safe HTTP client for Android and Java.
+
 OkHttp3 - For implementing interceptor
+
 Glide - For Image Loading
+
 GSON - A Serialization/deserialization library to convert Java Objects into JSON and back.
+
 Koin - Dependency Injection Framework
 
 ### App screenshots
